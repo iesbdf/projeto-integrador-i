@@ -1,0 +1,10 @@
+HISTÓRIAS DE USUÁRIO:
+
+- Autenticação
+- Solicitar Acesso
+- Solicitar Nova Senha
+- Cadastro de Categoria/Serviços
+- Abertura de Ordem de Serviço
+- Envio de Notificação
+- Social Login
+
