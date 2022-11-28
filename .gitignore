@@ -1,0 +1,8 @@
+# Configurações
+.vscode/
+
+# Comentário.
+src/BancoDeDados/*.mwb.bak
+
+# Comentário.
+*.log
