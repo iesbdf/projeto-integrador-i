@@ -1,8 +1,8 @@
-# Configurações
+# ide's
 .vscode/
 
-# Comentário.
-src/BancoDeDados/*.mwb.bak
+# file backup
+*.mwb.bak
 
-# Comentário.
+# log
 *.log
