@@ -1,9 +1,0 @@
-- Autenticação
-- Solicitar Acesso
-- Solicitar Nova Senha
-- Cadastro de Categoria/Serviços
-- Abertura de Ordem de Serviço
-- Abertura de Tickets
-- Notificação
-
-

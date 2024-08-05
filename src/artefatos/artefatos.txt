@@ -1,0 +1,18 @@
+ARQUITETURA
+
+- Diagrama de Arquitetura
+- Especificação Técnica
+----------------------------------------------------------------------------------------------------------------------
+BANCO DE DADOS
+
+- Banco Físico
+- Dicionário de Dados
+- Modelo de Entidade e Relacionamento
+----------------------------------------------------------------------------------------------------------------------
+ENGENHARIA DE REQUISITOS
+
+- Backlog
+- Casos de Testes
+- Histórias de Usuário
+- Especificação Funcional
+----------------------------------------------------------------------------------------------------------------------
