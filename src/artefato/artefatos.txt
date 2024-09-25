@@ -1,7 +1,7 @@
 ARQUITETURA
 
 - Diagrama de Arquitetura
-- Especificação Técnica
+- Documento de Especificação Técnica
 ----------------------------------------------------------------------------------------------------------------------
 BANCO DE DADOS
 
@@ -15,4 +15,5 @@ ENGENHARIA DE REQUISITOS
 - Casos de Testes
 - Histórias de Usuário
 - Especificação Funcional
+- Testes Unitários (TDD)
 ----------------------------------------------------------------------------------------------------------------------
